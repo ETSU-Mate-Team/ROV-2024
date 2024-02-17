@@ -1,0 +1,15 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "Heehoo node",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "this-is-the-test-command"
+  },
+  "author": "Nick Sells",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.2.2"
+  }
+}
